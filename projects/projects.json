@@ -3688,7 +3688,30 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Virto Commerce",
+      "thumb": "virtocommerce/thumb.png",
+      "desc": "Virto Commerce is an open source platform for building web SPA application using ASP.NET MVC and AngularJS",
+      "url": "http://virtocommerce.com",
+      "info": "http://virtocommerce.com/try",
+      "submitter": "Woland2k",
+      "submissionDate": "2015-08-26",
+      "tags": [
+        "Production",
+        "Large website",
+        "Large AngularJS app",
+        "jQuery",
+        "CRUD",
+        "Ecommerce",
+        "Open Source",
+        "Mobile",
+        "Responsive",
+        "ASP.NET",
+        "MVC",
+        "Cloud",
+        "REST"
+      ]
     }
-
   ]
 }
